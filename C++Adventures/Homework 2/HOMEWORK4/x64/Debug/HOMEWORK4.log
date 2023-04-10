@@ -1,0 +1,8 @@
+﻿  kutluhan_homework4.cpp
+C:\Users\kutlu\Masaüstü\SABANCI UNIVERSITY\Sophomore Year\CS 201\CS201CODES\homework3 trial\HOMEWORK4\HOMEWORK4\kutluhan_homework4.cpp(27,31): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kutlu\Masaüstü\SABANCI UNIVERSITY\Sophomore Year\CS 201\CS201CODES\homework3 trial\HOMEWORK4\HOMEWORK4\kutluhan_homework4.cpp(32,32): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kutlu\Masaüstü\SABANCI UNIVERSITY\Sophomore Year\CS 201\CS201CODES\homework3 trial\HOMEWORK4\HOMEWORK4\kutluhan_homework4.cpp(51,36): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kutlu\Masaüstü\SABANCI UNIVERSITY\Sophomore Year\CS 201\CS201CODES\homework3 trial\HOMEWORK4\HOMEWORK4\kutluhan_homework4.cpp(132,37): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kutlu\Masaüstü\SABANCI UNIVERSITY\Sophomore Year\CS 201\CS201CODES\homework3 trial\HOMEWORK4\HOMEWORK4\kutluhan_homework4.cpp(177,60): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kutlu\Masaüstü\SABANCI UNIVERSITY\Sophomore Year\CS 201\CS201CODES\homework3 trial\HOMEWORK4\HOMEWORK4\kutluhan_homework4.cpp(268,46): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  HOMEWORK4.vcxproj -> C:\Users\kutlu\Masaüstü\SABANCI UNIVERSITY\Sophomore Year\CS 201\CS201CODES\homework3 trial\HOMEWORK4\x64\Debug\HOMEWORK4.exe

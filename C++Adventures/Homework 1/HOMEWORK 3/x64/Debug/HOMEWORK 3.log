@@ -1,0 +1,4 @@
+﻿  kutluhan_homework3.cpp
+C:\Users\kutlu\Masaüstü\SABANCI UNIVERSITY\Sophomore Year\CS 201\CS201CODES\homework3 trial\HOMEWORK 3\HOMEWORK 3\kutluhan_homework3.cpp(48,29): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kutlu\Masaüstü\SABANCI UNIVERSITY\Sophomore Year\CS 201\CS201CODES\homework3 trial\HOMEWORK 3\HOMEWORK 3\kutluhan_homework3.cpp(113,30): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  HOMEWORK 3.vcxproj -> C:\Users\kutlu\Masaüstü\SABANCI UNIVERSITY\Sophomore Year\CS 201\CS201CODES\homework3 trial\HOMEWORK 3\x64\Debug\HOMEWORK 3.exe
