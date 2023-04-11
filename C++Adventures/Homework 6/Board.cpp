@@ -3,7 +3,7 @@
 //
 //Aygüzel Kutluhan
 //su-username: kutluhan
-//su-id: 00029563
+
 #include <iostream>
 #include "Board.h"
 #include "CharStack.h"
