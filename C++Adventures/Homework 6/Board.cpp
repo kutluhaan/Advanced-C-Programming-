@@ -2,7 +2,6 @@
 // Created by kutlu on 3.04.2023.
 //
 //Aygüzel Kutluhan
-//su-username: kutluhan
 
 #include <iostream>
 #include "Board.h"
