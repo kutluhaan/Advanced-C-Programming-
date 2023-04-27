@@ -15,3 +15,6 @@ The included topics are;
 -Pointer Concept 
 -Linked Lists and Struct Design 
 -Stack/Que Concept
+-Operator Iverloading
+-2D Dynamic Linkedlist Arrays
+-Destructors
