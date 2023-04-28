@@ -5,9 +5,9 @@ The included topics are;
 -Artihmetic Operations 
 -Input - Output Designs 
 -Conditional Statements 
--Functions (Void - Non Void) 
+-Functions (Void - Non Void)
 -For - While Loops 
--Arrays -Vectors 
+-Arrays - Vectors 
 -Structs 
 -File Input - Output 
 -Object Oriented Programming 
@@ -17,4 +17,13 @@ The included topics are;
 -Stack/Que Concept
 -Operator Iverloading
 -2D Dynamic Linkedlist Arrays
+-Constructors
 -Destructors
+-Copy Constructor
+-Deep Copy
+-Shallow Copy
+-Iterator
+-Friend Classes
+-Static Variables
+-Reference Variables
+-Sharing Variable Among Different Objects
